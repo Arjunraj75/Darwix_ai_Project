@@ -17,8 +17,8 @@ All you need is Docker and Docker Compose installed.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/YourRepoName.git
-cd YourRepoName
+git clone https://github.com/Arjunraj75/Darwix_ai_Project.git
+cd Darwix_ai_Project
 ```
 
 ### 2. Set Up Environment Variables this is important to US...
