@@ -1,0 +1,8 @@
+customer: I was charged for a service I don't remember ordering. It's the 'cause' premium package.
+agent: I apologize for the confusion. It seems it was added during your last upgrade. I can remove it for you right away.
+agent: I can certainly help with that. Could you please provide me with your account number?
+customer: Sure, my account number is 13021540.
+customer: Yes, please do. Thank you for your help.
+customer: Hi Joseph Gardner, this is Ryan. I have a question about my recent bill.
+agent: Thank you for calling Darwix AI, my name is Joseph Gardner. How can I help you today?
+agent: Thank you. One moment... Okay, I see your latest bill. What is your question?

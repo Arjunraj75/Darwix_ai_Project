@@ -1,0 +1,8 @@
+customer: I was charged for a service I don't remember ordering. It's the 'family' premium package.
+agent: I can certainly help with that. Could you please provide me with your account number?
+agent: I apologize for the confusion. It seems it was added during your last upgrade. I can remove it for you right away.
+agent: Thank you. One moment... Okay, I see your latest bill. What is your question?
+agent: Thank you for calling Darwix AI, my name is Heidi Simmons. How can I help you today?
+customer: Yes, please do. Thank you for your help.
+customer: Hi Heidi Simmons, this is Lisa. I have a question about my recent bill.
+customer: Sure, my account number is 28440202.

@@ -1,0 +1,8 @@
+agent: Thank you. One moment... Okay, I see your latest bill. What is your question?
+agent: I apologize for the confusion. It seems it was added during your last upgrade. I can remove it for you right away.
+customer: Sure, my account number is 6987370.
+customer: Yes, please do. Thank you for your help.
+agent: Thank you for calling Darwix AI, my name is Laura Woods. How can I help you today?
+agent: I can certainly help with that. Could you please provide me with your account number?
+customer: I was charged for a service I don't remember ordering. It's the 'common' premium package.
+customer: Hi Laura Woods, this is Shelly. I have a question about my recent bill.
